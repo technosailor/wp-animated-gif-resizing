@@ -1,0 +1,14 @@
+{
+    "name": "technosailor/wp-animated-gif-resizing",
+    "description": "Allows Animated GIFs to be resized without losing animation",
+    "require": {
+        "coldume/imagecraft": "v1.0.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aaron Brazell",
+            "email": "aaron@technosailor.com"
+        }
+    ]
+}
